@@ -1,1 +1,1 @@
-# Polynomial-Regression-of-Latent-Dimensions-Using-Principal-Component-Analysis-PCA-
+# Polynomial Regression of Latent Dimensions Using Principal Component Analysis (PCA)
